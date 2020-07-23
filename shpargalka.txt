@@ -3,3 +3,5 @@
 - index.scss : @import '~bootstrap/scss/bootstrap
 
 *** React Hooks / хуки - способ писать приложение без использования классов ***
+
+- npm i react-router-dom
